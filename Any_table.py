@@ -1,3 +1,7 @@
+""" 
+    Program for multiplication table for any number
+"""
+
 number = int(input("Enter the multiplication table you want to enter: "))
 print("Multiplication table of",table,"is :")
 
